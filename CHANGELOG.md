@@ -1,5 +1,11 @@
 # Changelog
 
+## First working version
+- Implemented check_touch() function to check if the controlling fingers touch
+- Added user interface: score count and a game over screen with automatic restart
+- The game is now playable!
+- Refactored code, improved functions and added type hints
+
 ## Add pygame
 - Add new requirement - pygame
 - Create a loading screen and a game field
