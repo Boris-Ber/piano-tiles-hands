@@ -1,5 +1,9 @@
 # Changelog
 
+## Release
+- Edited the README.md file
+- Published the repository
+
 ## First working version
 - Implemented check_touch() function to check if the controlling fingers touch
 - Added user interface: score count and a game over screen with automatic restart
